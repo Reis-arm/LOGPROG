@@ -1,0 +1,9 @@
+# @title Programa: Exibir Texto Personalizado
+
+
+# @title Programa: Exibir Texto Personalizado
+
+
+texto = input("Digite qualquer texto: ")
+
+print(f"🌟 Seu texto foi: {texto + ' é o goat e o maioral'}")
